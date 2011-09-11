@@ -1,0 +1,26 @@
+This javascript plugin was developed thinking about the workflow behind convering a template to its HTML4/5 counterpart.
+
+The base concept is simple, being able to develop pixel perfect templates.
+
+======
+
+Keys:
+Esc: Reset to default position
+Alt + Mouse left click: Move background on x axis
+Alt + Mouse right click: Move background on y axis
+Alt + Both mouse buttons: Move background on x and y axis
+Shift + Click: Choose a scope in where to confine your background image
+r: Activate rulers (might take a few seconds to load)
+Ctrl+g: Activate guides while in ruler view
+
+======
+
+Beta:
+
+This is still in early beta and only works properly on Google Chrome.
+
+======
+
+Examples
+
+You can see it in action here: http://www.joseairosa.com/projetizr
